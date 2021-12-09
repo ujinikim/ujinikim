@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ujinikim
-- 👀 I’m interested in web development
+- 👀 I’m interested in dev
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on website development project
 - 📫 How to reach me eooojean@gmail.com
