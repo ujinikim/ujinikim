@@ -2,7 +2,7 @@
 - 👀
 - 🌱
 - 💞️ 
-- 📫 How to reach me - > eooojean@gmail.com
+- 📫 How to reach me - > eojin.klim@gmail.com
 
 <!---
 ujinikim/ujinikim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
