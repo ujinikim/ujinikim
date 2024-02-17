@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ujinikim
-- 👀
-- 🌱
-- 💞️ 
-- 📫 How to reach me - > eojin.klim@gmail.com
+- 
+- 📫 How to reach me - > eojin.k1@gmail.com
 
 <!---
 ujinikim/ujinikim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
